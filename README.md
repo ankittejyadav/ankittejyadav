@@ -36,7 +36,7 @@ I'm a Software Engineer passionate about everything in technology. Welcome to my
 -	Leveraged Java Persistence API (JPA) to establish a robust and scalable data persistence layer
 -	Modeled and mapped entities for courses, ensuring efficient storage and retrieval from the underlying database
 
-### [Grocery List](https://github.com/ankittejyadav/Grocery-List-React-App)
+### [To-Do List](https://github.com/ankittejyadav/react_todoapp)
 -	React web application to create a To-do list which allows users to add, remove and checkout completed items
 -	Utilized React Hooks, such as useState and useEffect, for efficient state management within functional components
 -	Developed unit tests using Jest and React Testing Library to ensure the correctness of components and validate the behavior
