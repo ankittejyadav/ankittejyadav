@@ -26,8 +26,7 @@ I'm a Software Engineer passionate about everything in technology. Welcome to my
 - **Web Technologies:** HTML5, CSS3, JavaScript, TypeScript, ReactJS, NodeJS, SASS, Tailwind, REST APIs, jQuery, JSON, AJAX
 - **Databases:** Oracle PL/SQL, MySQL, PostgreSQL, SQL Server Management Studio, MongoDB, Athena, S3
 - **Cloud:** Amazon Web Services (S3, Glue, Athena, QuickSight, Lambda, CloudWatch, EC2, Sage Maker, Cognito, IAM, Amplify, RDS, Redshift)
-- **Collaboration Tools:** Git, GitHub, Subversion, Gitlab, Bitbucket, Jira, Confluence
-- <!--**Data Engineering/Visualization:** Enterprise Data Management (Markit EDM), Spark, Splunk, Tableau, PowerBI, Snowflake-->
+- **Collaboration Tools:** Git, GitHub, Subversion, Gitlab, Bitbucket, Jira, Confluence<!--**Data Engineering/Visualization:** Enterprise Data Management (Markit EDM), Spark, Splunk, Tableau, PowerBI, Snowflake-->
 - **Tools & Platforms:** AWS, Git, Jira, Salesforce, Docker, WinSCP, AppDynamics, OAuth Swagger, Postman, Tableau, Tomcat, Kafka
 
 ## 🚀 Projects
