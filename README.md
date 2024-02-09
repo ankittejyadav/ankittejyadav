@@ -57,7 +57,7 @@ I'm a Software Engineer passionate about everything in technology. Welcome to my
 ## 📫 Let's Connect
 
 - LinkedIn: [ankittejyadav](https://www.linkedin.com/in/ankittejyadav/)
-- Website: [Portfolio](https://ankittejyadav.github.io/)
+- Website: [ankittejyadav.github.io](https://ankittejyadav.github.io/)
 <!--
 ## 💬 Ask me about
 
