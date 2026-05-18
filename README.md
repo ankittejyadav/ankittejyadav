@@ -1,73 +1,58 @@
-<!--### Hi there 👋
+# Hi, I'm Ankit 👋
 
+Engineer building things with code.
 
-**ankittejyadav/ankittejyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 [ankittejyadav.github.io](https://ankittejyadav.github.io)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
 
-# Hello, I'm Ankit 👋
+<!-- Auto-generated from project data -->
 
-I'm a Software Engineer passionate about everything in technology. Welcome to my corner of GitHub, where I showcase my projects and contributions.
+Jupyter Notebook, Svelte, JavaScript, Python, TypeScript, CSS, Shell, HTML, Solidity, Java, HCL, SCSS, PLpgSQL, Dockerfile, C++, Smarty, Rust
 
-## 🔧 Technologies & Tools
+---
 
-- **Programming Languages:** Python, Java, SQL, T-SQL, R, Bash, C, C++, C#, .Net, XML
-- **Frameworks & Libraries:** PySpark, NumPy, Pandas, Matplotlib, Tensorflow, Keras, BeautifulSoup4, Spring Boot, Maven
-- **Web Technologies:** HTML5, CSS3, JavaScript, TypeScript, ReactJS, NodeJS, SASS, Tailwind, REST APIs, jQuery, JSON, AJAX
-- **Databases:** Oracle PL/SQL, MySQL, PostgreSQL, SQL Server Management Studio, MongoDB, Athena, S3
-- **Cloud:** Amazon Web Services (S3, Glue, Athena, QuickSight, Lambda, CloudWatch, EC2, Sage Maker, Cognito, IAM, Amplify, RDS, Redshift)
-- **Collaboration Tools:** Git, GitHub, Subversion, Gitlab, Bitbucket, Jira, Confluence
-- **Data Engineering/Visualization:** Enterprise Data Management (Markit EDM), Spark, Splunk, Tableau, PowerBI, Snowflake
-- **Tools & Platforms:** AWS, Git, Jira, Salesforce, Docker, WinSCP, AppDynamics, OAuth Swagger, Postman, Tomcat, Kafka
+## 📌 Recent Projects
 
-## 🚀 Projects
+<!-- Auto-generated from projects.json -->
 
-### [Spring Course Managment App with JPA](https://github.com/ankittejyadav/springboot_coursemanagment_jpa)
--	Course management MVC app built using Spring Boot and JPA, implemented REST APIs for CRUD 
--	Leveraged Java Persistence API (JPA) to establish a robust and scalable data persistence layer
--	Modeled and mapped entities for courses, ensuring efficient storage and retrieval from the underlying database
+*Note: No projects are explicitly featured. Displaying top 5 recently updated projects instead.*
 
-### [React To-Do List](https://github.com/ankittejyadav/react_todoapp)
--	React web application to create a To-do list which allows users to add, remove and checkout completed items
--	Utilized React Hooks, such as useState and useEffect, for efficient state management within functional components
--	Developed unit tests using Jest and React Testing Library to ensure the correctness of components and validate the behavior
+### [selfhost](https://github.com/ankittejyadav/selfhost)
+> AI-powered personal life-management dashboard unifying fitness, nutrition, language learning, job tracking, and location intelligence
 
-### [Neural Network for Handwritten Digits](https://github.com/ankittejyadav/Neural_Network_Handwritten_Digits)
--	Implemented a Neural Network to find handwritten digits with 80% accuracy using Tensorflow and Keras
--	Preprocessed data with normalization and reshaped it to prepare the handwritten digit images for input to the neural network
--	Systematically tuned hyperparameters, including learning rates, batch sizes, and regularization terms, to enhance performance
+🔧 Svelte
 
-<!--## 🌱 I'm Currently Learning
+### [OpenAccelerator-Fan-5](https://github.com/theinhumaneme/OpenAccelerator-Fan-5)
+🔧 Python
 
-[List any technologies or skills you're currently learning or improving]-->
+### [files](https://github.com/ankittejyadav/files)
+### [inkbox_agent](https://github.com/ankittejyadav/inkbox_agent)
+🔧 TypeScript
 
-## 📚 Certifications
+### [task_manager](https://github.com/ankittejyadav/task_manager)
+🔧 Python · ⭐ 1
 
-### [Microsoft Azure Fundamentals](https://www.credly.com/badges/13fdea72-352c-493c-8d1c-29c4ff9a8098/public_url)
+---
 
-## 📫 Let's Connect
+## ✍️ Recent Writing
 
-- LinkedIn: [ankittejyadav](https://www.linkedin.com/in/ankittejyadav/)
-- Website: [ankittejyadav.github.io](https://ankittejyadav.github.io/)
-  
-## 💬 Ask me about
+<!-- Auto-generated from blog posts -->
 
-Software Engineering, Data Analysis, Data Engineering
+- [Database Design Critique](https://ankittejyadav.github.io/blog/DB_critique) — May 2026
+- [Technical Leader's GenAI & AI Agent Playbook](https://ankittejyadav.github.io/blog/Agent_Design_Playbook) — May 2026
+- [IBM's Granite: Open Source LLM for Enterprise](https://ankittejyadav.github.io/blog/IBM_Open_Source_Model) — April 2026
+- [AI-Driven Life Cycle Development (AI-DLC)](https://ankittejyadav.github.io/blog/AIDLC) — April 2026
+- [AI and Consciousness](https://ankittejyadav.github.io/blog/AI_and_Consciousness) — March 2026
 
-<!--## 📊 GitHub Stats
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=contribs,prs&theme=radical)
+## 📊 GitHub Stats
 
-## 🎉 Thanks for visiting!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankittejyadav&show_icons=true&theme=default&hide_border=true)
 
-Feel free to explore my repositories and don't hesitate to reach out. Let's collaborate and build something amazing together! 😊
+---
+
+*This README is auto-generated by a [GitHub Action](https://github.com/ankittejyadav/ankittejyadav.github.io/actions) — powered by my portfolio sync system.*
