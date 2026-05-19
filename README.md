@@ -14,23 +14,16 @@ Jupyter Notebook, Svelte, JavaScript, Python, TypeScript, CSS, Shell, HTML, Soli
 
 ---
 
-## 📌 Recent Projects
+## 📌 Featured Projects
 
 <!-- Auto-generated from projects.json -->
 
-*Note: No projects are explicitly featured. Displaying top 5 recently updated projects instead.*
-
-### [ankittejyadav](https://github.com/ankittejyadav/ankittejyadav)
 ### [selfhost](https://github.com/ankittejyadav/selfhost)
 > AI-powered personal life-management dashboard unifying fitness, nutrition, language learning, job tracking, and location intelligence
 
 🔧 Svelte
 
-### [OpenAccelerator-Fan-5](https://github.com/theinhumaneme/OpenAccelerator-Fan-5)
-🔧 Python
-
-### [files](https://github.com/ankittejyadav/files)
-### [inkbox_agent](https://github.com/ankittejyadav/inkbox_agent)
+### [roommatesTasker](https://github.com/ankittejyadav/roommatesTasker)
 🔧 TypeScript
 
 ---
