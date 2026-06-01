@@ -10,7 +10,7 @@ Engineer building things with code.
 
 <!-- Auto-generated from project data -->
 
-Jupyter Notebook, Svelte, JavaScript, Python, TypeScript, CSS, Shell, HTML, Solidity, Java, HCL, SCSS, PLpgSQL, Dockerfile, C++, Go Template, Rust
+Jupyter Notebook, Svelte, JavaScript, Python, TypeScript, CSS, Shell, HTML, Rust, Solidity, Java, HCL, SCSS, PLpgSQL, Dockerfile, C++, Go Template
 
 ---
 
