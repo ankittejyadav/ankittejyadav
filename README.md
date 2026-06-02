@@ -6,25 +6,57 @@ Engineer building things with code.
 
 ---
 
-## 🛠 Tech Stack
-
-<!-- Auto-generated from project data -->
-
-Jupyter Notebook, Svelte, JavaScript, Python, TypeScript, CSS, Shell, HTML, Rust, Solidity, Java, HCL, SCSS, PLpgSQL, Dockerfile, C++, Go Template
-
----
-
-## 📌 Featured Projects
+## 📌 Projects
 
 <!-- Auto-generated from projects.json -->
 
-### [selfhost](https://github.com/ankittejyadav/selfhost)
-> AI-powered personal life-management dashboard unifying fitness, nutrition, language learning, job tracking, and location intelligence
-
-🔧 Svelte
-
-### [roommatesTasker](https://github.com/ankittejyadav/roommatesTasker)
-🔧 TypeScript
+- [agentmux](https://github.com/ankittejyadav/agentmux)
+- [ankits_world](https://github.com/ankittejyadav/ankits_world)
+- [ankittejyadav](https://github.com/ankittejyadav/ankittejyadav)
+- [ankittejyadav.github.io-old-](https://github.com/ankittejyadav/ankittejyadav.github.io-old-)
+- [bookmarks_sync](https://github.com/ankittejyadav/bookmarks_sync)
+- [calendar_sync](https://github.com/ankittejyadav/calendar_sync)
+- [combine_excel](https://github.com/ankittejyadav/combine_excel)
+- [copilotkit_hackathon](https://github.com/ankittejyadav/copilotkit_hackathon)
+- [daypilotAI](https://github.com/ankittejyadav/daypilotAI)
+- [Ecrypto](https://github.com/ankittejyadav/Ecrypto)
+- [edm](https://github.com/ankittejyadav/edm)
+- [files](https://github.com/ankittejyadav/files)
+- [flask-gpu-app-main](https://github.com/ankittejyadav/flask-gpu-app-main)
+- [gemini_prompts_summer_goal](https://github.com/ankittejyadav/gemini_prompts_summer_goal)
+- [genai_training](https://github.com/ankittejyadav/genai_training)
+- [genui_copilotkit](https://github.com/ankittejyadav/genui_copilotkit)
+- [githubEnvironmentManager](https://github.com/ankittejyadav/githubEnvironmentManager)
+- [happy_birthday_v](https://github.com/ankittejyadav/happy_birthday_v)
+- [hiName](https://github.com/ankittejyadav/hiName)
+- [inkbox_agent](https://github.com/ankittejyadav/inkbox_agent)
+- [job_app_site](https://github.com/ankittejyadav/job_app_site)
+- [leetcode](https://github.com/ankittejyadav/leetcode)
+- [MovieLand](https://github.com/ankittejyadav/MovieLand)
+- [movies_webapp](https://github.com/ankittejyadav/movies_webapp)
+- [movies_webapp_frontend](https://github.com/ankittejyadav/movies_webapp_frontend)
+- [neural_network_handwritten_digits](https://github.com/ankittejyadav/neural_network_handwritten_digits)
+- [Omnivore_Refactor](https://github.com/ankittejyadav/Omnivore_Refactor)
+- [physicsGames](https://github.com/ankittejyadav/physicsGames)
+- [power_bi_agent](https://github.com/ankittejyadav/power_bi_agent)
+- [product_catalog_system](https://github.com/ankittejyadav/product_catalog_system)
+- [python](https://github.com/ankittejyadav/python)
+- [react_backgroundchanger](https://github.com/ankittejyadav/react_backgroundchanger)
+- [react_counter](https://github.com/ankittejyadav/react_counter)
+- [react_currencyconverter](https://github.com/ankittejyadav/react_currencyconverter)
+- [react_passwordgenerator](https://github.com/ankittejyadav/react_passwordgenerator)
+- [react_tailwind_props](https://github.com/ankittejyadav/react_tailwind_props)
+- [roommatesTasker](https://github.com/ankittejyadav/roommatesTasker)
+- [sales_insights_tableau](https://github.com/ankittejyadav/sales_insights_tableau)
+- [schrodingers_ket](https://github.com/ankittejyadav/schrodingers_ket)
+- [selfhost](https://github.com/ankittejyadav/selfhost)
+- [Space_Explorer_Book](https://github.com/ankittejyadav/Space_Explorer_Book)
+- [SpeculativeDecodingBenchmark](https://github.com/ankittejyadav/SpeculativeDecodingBenchmark)
+- [springbootCourselistWebapp](https://github.com/ankittejyadav/springbootCourselistWebapp)
+- [springBootCourseManagementJPA](https://github.com/ankittejyadav/springBootCourseManagementJPA)
+- [storygen-learning](https://github.com/ankittejyadav/storygen-learning)
+- [task_manager](https://github.com/ankittejyadav/task_manager)
+- [willShePickup](https://github.com/ankittejyadav/willShePickup)
 
 ---
 
