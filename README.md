@@ -6,7 +6,27 @@ Engineer building things with code.
 
 ---
 
-## 📌 Projects
+## 🛠️ Core Tech Stack & Skills
+*(Automatically aggregated from my repositories)*
+
+* **Languages:** Python, JavaScript, TypeScript, CSS, Java, SQL, Bash, Go, HTML, Rust
+* **Frameworks & Libraries:** React, Spring Boot, Next.js, Vue, Express, Svelte, Django, SvelteKit, TailwindCSS, Flask
+* **Tools & Databases:** Node.js, PostgreSQL, Redis, Git, AWS, Docker, MongoDB, MySQL, Excel, Power BI
+
+---
+
+## 🚀 Cool Things I'm Doing
+*(Recent key highlights from my active projects)*
+
+* **selfhost:** AI-powered personal life-management dashboard unifying fitness, nutrition, language learning, job tracking, and location intelligence
+* **ankittejyadav:** A self-hosted, AI-integrated personal intelligence platform and automated portfolio synchronization engine.
+* **springBootCourseManagementJPA:** An enterprise-grade Course Management Engine built on Spring Boot and JPA, featuring optimized relational mapping and transactional integrity.
+* **springbootCourselistWebapp:** A high-throughput, enterprise-grade Spring Boot microservice orchestrating course metadata and curriculum lifecycles via MongoDB.
+* **schrodingers_ket:** Translating quantum decoherence and hardware noise into human-perceptible visual spaces using hybrid classical-quantum pipelines.
+
+---
+
+## 📌 Featured Projects
 
 <!-- Auto-generated from projects directory -->
 
@@ -20,42 +40,6 @@ Engineer building things with code.
 - [schrodingers_ket](https://github.com/ankittejyadav/schrodingers_ket)
 - [sales_insights_tableau](https://github.com/ankittejyadav/sales_insights_tableau)
 - [roommatesTasker](https://github.com/ankittejyadav/roommatesTasker)
-- [react_tailwind_props](https://github.com/ankittejyadav/react_tailwind_props)
-- [react_passwordgenerator](https://github.com/ankittejyadav/react_passwordgenerator)
-- [react_currencyconverter](https://github.com/ankittejyadav/react_currencyconverter)
-- [react_counter](https://github.com/ankittejyadav/react_counter)
-- [react_backgroundchanger](https://github.com/ankittejyadav/react_backgroundchanger)
-- [python](https://github.com/ankittejyadav/python)
-- [product_catalog_system](https://github.com/ankittejyadav/product_catalog_system)
-- [power_bi_agent](https://github.com/ankittejyadav/power_bi_agent)
-- [physicsGames](https://github.com/ankittejyadav/physicsGames)
-- [Omnivore_Refactor](https://github.com/ankittejyadav/Omnivore_Refactor)
-- [neural_network_handwritten_digits](https://github.com/ankittejyadav/neural_network_handwritten_digits)
-- [movies_webapp_frontend](https://github.com/ankittejyadav/movies_webapp_frontend)
-- [movies_webapp](https://github.com/ankittejyadav/movies_webapp)
-- [leetcode](https://github.com/ankittejyadav/leetcode)
-- [hiName](https://github.com/ankittejyadav/hiName)
-- [happy_birthday_v](https://github.com/ankittejyadav/happy_birthday_v)
-- [githubEnvironmentManager](https://github.com/ankittejyadav/githubEnvironmentManager)
-- [genui_copilotkit](https://github.com/ankittejyadav/genui_copilotkit)
-- [genai_training](https://github.com/ankittejyadav/genai_training)
-- [gemini_prompts_summer_goal](https://github.com/ankittejyadav/gemini_prompts_summer_goal)
-- [flask-gpu-app-main](https://github.com/ankittejyadav/flask-gpu-app-main)
-- [edm](https://github.com/ankittejyadav/edm)
-- [Ecrypto](https://github.com/ankittejyadav/Ecrypto)
-- [daypilotAI](https://github.com/ankittejyadav/daypilotAI)
-- [copilotkit_hackathon](https://github.com/ankittejyadav/copilotkit_hackathon)
-- [combine_excel](https://github.com/ankittejyadav/combine_excel)
-- [bookmarks_sync](https://github.com/ankittejyadav/bookmarks_sync)
-- [ankittejyadav.github.io-old-](https://github.com/ankittejyadav/ankittejyadav.github.io-old-)
-- [ankits_world](https://github.com/ankittejyadav/ankits_world)
-- [job_app_site](https://github.com/ankittejyadav/job_app_site)
-- [inkbox_agent](https://github.com/ankittejyadav/inkbox_agent)
-- [MovieLand](https://github.com/ankittejyadav/MovieLand)
-- [storygen-learning](https://github.com/ankittejyadav/storygen-learning)
-- [willShePickup](https://github.com/ankittejyadav/willShePickup)
-- [task_manager](https://github.com/ankittejyadav/task_manager)
-- [Space_Explorer_Book](https://github.com/ankittejyadav/Space_Explorer_Book)
 
 ---
 
