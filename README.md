@@ -8,11 +8,10 @@ Engineer building things with code.
 
 ## 📌 Projects
 
-<!-- Auto-generated from projects.json -->
+<!-- Auto-generated from projects directory -->
 
-- [ankittejyadav](https://github.com/ankittejyadav/ankittejyadav)
 - [selfhost](https://github.com/ankittejyadav/selfhost)
-- [files](https://github.com/ankittejyadav/files)
+- [ankittejyadav](https://github.com/ankittejyadav/ankittejyadav)
 - [agentmux](https://github.com/ankittejyadav/agentmux)
 - [calendar_sync](https://github.com/ankittejyadav/calendar_sync)
 - [springBootCourseManagementJPA](https://github.com/ankittejyadav/springBootCourseManagementJPA)
