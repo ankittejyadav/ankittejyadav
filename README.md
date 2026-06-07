@@ -9,20 +9,21 @@ Engineer building things with code.
 ## 🛠️ Core Tech Stack & Skills
 *(Automatically aggregated from my repositories)*
 
-* **Languages:** Python, JavaScript, TypeScript, CSS, Java, SQL, Bash, Go, HTML, Rust
-* **Frameworks & Libraries:** React, Spring Boot, Next.js, Vue, Express, Svelte, Django, SvelteKit, TailwindCSS, Flask
-* **Tools & Databases:** Node.js, PostgreSQL, Redis, Git, AWS, Docker, MongoDB, MySQL, Excel, Power BI
+* **Languages:** TypeScript, Python, JavaScript, Java, SQL, Bash, Go, CSS, Rust, HTML
+* **Frameworks & Libraries:** React, Next.js, Spring Boot, Express, Vue, Django, Svelte, SvelteKit, TailwindCSS, Flask
+* **Tools & Databases:** Node.js, PostgreSQL, Redis, Git, Docker, AWS, MySQL, MongoDB, Power BI
+* **Other Technologies:** --, Data & middleware, Portable-pty, Crossterm, Serde, Toml, Filesystem-based state, Codex cli, Claude code, Gemini cli, And antigravity cli., Jupyter notebooks, Pandas & numpy, Openpyxl, Headless, Aws ecs, Kubernetes jobs)., Execution environment, Deep learning framework, Experiment tracking, Strict architectural guidelines, State management (rxjs), Rapid prototyping capabilities, Data, Styling, Loss curves, And confusion matrices, Automatic differentiation engines, Direct dom updates, Build tool (vite), Highly testable, Styling (modular css), Deployment (netlify edge), Styling (tailwind css), Javascript (es6+), Sql (postgresql), Html5, Css3, Sveltekit 5, Svelte 5 (runes), Svelte-check, Auth.js (nextauth), Supabase, Postgis, Vercel, Vitest, Google calendar api, Google gemini api, Open-meteo weather api, Spotify api, Nominatim / openstreetmap, Trade
 
 ---
 
 ## 🚀 Cool Things I'm Doing
 *(Recent key highlights from my active projects)*
 
-* **selfhost:** AI-powered personal life-management dashboard unifying fitness, nutrition, language learning, job tracking, and location intelligence
-* **ankittejyadav:** A self-hosted, AI-integrated personal intelligence platform and automated portfolio synchronization engine.
-* **springBootCourseManagementJPA:** An enterprise-grade Course Management Engine built on Spring Boot and JPA, featuring optimized relational mapping and transactional integrity.
-* **springbootCourselistWebapp:** A high-throughput, enterprise-grade Spring Boot microservice orchestrating course metadata and curriculum lifecycles via MongoDB.
-* **schrodingers_ket:** Translating quantum decoherence and hardware noise into human-perceptible visual spaces using hybrid classical-quantum pipelines.
+* **selfhost:** **Engineered** a resilient multi-model AI fallback cascade engine across 5 Gemini model variants (`gemini-3.1-flash-lite` through `gemini-2.5-pro`) that isolates rate-limits (429) and server errors (500) to guarantee continuous uptime for core dashboard intelligence.
+* **agentmux:** AgentMux is a CLI-first terminal multiplexer for coordinating multiple AI coding agent harnesses from one project-local workflow. It currently targets Codex CLI, Claude Code, Gemini CLI, and Antigravity CLI through the stable agent keys `codex`, `claude`, `gemini`, and `agy`.
+* **calendar_sync:** > *A premium, high-performance social calendar aggregator built with SvelteKit 2 and Svelte 5.*
+* **MovieLand:** > *An advanced, highly-scalable software solution built with modern engineering practices.*
+* **storygen-learning:** > *An advanced, highly-scalable software solution built with modern engineering practices.*
 
 ---
 
